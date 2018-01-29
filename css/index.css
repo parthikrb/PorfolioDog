@@ -3,3 +3,9 @@ h1 {
     height: 14px;
     color: crimson;
 }
+
+body {
+    background: rgb(26, 44, 41);
+    background-image: url('../image/dog2.png');
+    background-size: cover;
+}
